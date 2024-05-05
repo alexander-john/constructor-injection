@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Shawn/Desktop/small projects/constructor-injection/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\constructor-injection.dir\\main.cpp.obj -c \"C:\\Users\\Shawn\\Desktop\\small projects\\constructor-injection\\main.cpp\"",
+  "file": "C:/Users/Shawn/Desktop/small projects/constructor-injection/main.cpp",
+  "output": "CMakeFiles/constructor-injection.dir/main.cpp.obj"
+}
+]
